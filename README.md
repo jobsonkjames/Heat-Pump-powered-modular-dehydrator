@@ -32,10 +32,6 @@ The system targets three properties:
 - AI-generated concept render developed for visual communication
 - Design patent application in preparation (India)
  
-## Concept Visualisation
- 
-![Concept render](docs/render.png)
-*Window-unit form factor with adjustable louvers, integrated controls, and modular mounting interface*
  
 ## Methodology
  
